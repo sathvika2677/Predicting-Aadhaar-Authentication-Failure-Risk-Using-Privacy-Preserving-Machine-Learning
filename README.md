@@ -1,0 +1,2 @@
+# Predicting-Aadhaar-Authentication-Failure-Risk-Using-Privacy-Preserving-Machine-Learning
+This project predicts Aadhaar authentication failure risk using anonymized operational inputs such as network strength and device quality. It enables preventive actions before service denial, follows a privacy-first approach, uses no personal or biometric data, and is implemented as a stateless, demo-safe prototype.
